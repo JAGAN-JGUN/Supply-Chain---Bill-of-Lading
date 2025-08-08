@@ -5,18 +5,18 @@ This project is a full-stack blockchain-based solution for securing and tracking
 
 ---
 
-## 🌐 Overview
+## Overview
 
 The Bill of Lading is a crucial legal document in the supply chain, often prone to fraud or loss. This system ensures secure, traceable, and real-time validation of goods using:
 
-- 🔐 Blockchain (Ethereum) for decentralized, tamper-proof records.
-- 📱 Flutter frontend for intuitive user interaction.
-- ⚙️ Python backend for contract interaction and data handling.
-- 📡 IoT integration via Arduino to collect sensor data in real time.
+- Blockchain (Ethereum) for decentralized, tamper-proof records.
+- Flutter frontend for intuitive user interaction.
+- Python backend for contract interaction and data handling.
+- IoT integration via Arduino to collect sensor data in real time.
 
 ---
 
-## ❓ Why This Project
+## Why This Project
 
 The maritime and logistics industries still heavily depend on physical documents like the **Bill of Lading (BoL)**, which are vulnerable to loss, delays, fraud, and manipulation. There is also:
 
@@ -32,19 +32,19 @@ This project digitizes and decentralizes the BoL using blockchain to offer:
 
 ---
 
-## 🔧 How the System Works
+## How the System Works
 
 <div align="center">
   <img src="Workflow.png" alt="Workflow"/>
 </div>
 
-### 🧩 System Components:
+### System Components:
 1. **IoT Module (Arduino):** Gathers sensor data (e.g., temperature).
 2. **Python Backend Server:** Middleware between frontend and blockchain.
 3. **Ethereum Blockchain (Private):** Stores shipment and BoL data.
 4. **Flutter App:** Interface for shipper and receiver to interact with data.
 
-### 🔄 End-to-End Flow:
+### End-to-End Flow:
 
 1. **Order Placement**
    - User inputs Order ID and Shipper ID through the Flutter app.
@@ -64,7 +64,7 @@ This project digitizes and decentralizes the BoL using blockchain to offer:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Supply-Chain---Bill-of-Lading-main/
@@ -93,17 +93,17 @@ Supply-Chain---Bill-of-Lading-main/
 
 ---
 
-## 🚀 Features
+## Features
 
-- 📦 Real-time updates on shipment status.
-- 🔗 Immutable smart contract-based bill tracking.
-- 📲 Cross-platform Flutter mobile interface.
-- 🧠 IoT integration for automatic sensor data capture.
-- 🔐 Secure data interactions using Ethereum blockchain.
+- Real-time updates on shipment status.
+- Immutable smart contract-based bill tracking.
+- Cross-platform Flutter mobile interface.
+- IoT integration for automatic sensor data capture.
+- Secure data interactions using Ethereum blockchain.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Frontend:** Flutter (Dart)
 - **Backend:** Python
@@ -112,7 +112,7 @@ Supply-Chain---Bill-of-Lading-main/
 
 ---
 
-## 🧪 Getting Started
+## Getting Started
 
 ### 1. Prerequisites
 
@@ -148,26 +148,18 @@ flutter run
 
 ---
 
-## 📡 IoT Setup
+## IoT Setup
 
 Upload `Iot.ino` to an Arduino board connected with relevant sensors. The data will be transmitted to the backend or blockchain based on configuration.
 
 ---
 
-## 🤝 Contributors
-
-- Aaron John Thomas (CS19B1001)
-- Aqeel Ryan (CS19B1007)
-- Jagan S (CS19B1023)
-
----
-
-## 📜 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 📬 Contact
+## Contact
 
-For any queries or collaboration, please contact [your.email@example.com].
+For any queries or collaboration, please contact [jaganjgun008@gmail.com].
