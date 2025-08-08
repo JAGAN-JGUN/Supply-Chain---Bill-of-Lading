@@ -35,7 +35,7 @@ This project digitizes and decentralizes the BoL using blockchain to offer:
 ## 🔧 How the System Works
 
 <div align="center">
-  <img src="Workflow.png" alt="TensorFlow Confusion Matrix"/>
+  <img src="Workflow.png" alt="Workflow"/>
 </div>
 
 ### 🧩 System Components:
