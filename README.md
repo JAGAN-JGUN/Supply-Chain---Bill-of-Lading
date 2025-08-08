@@ -154,12 +154,6 @@ Upload `Iot.ino` to an Arduino board connected with relevant sensors. The data w
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## Contact
 
 For any queries or collaboration, please contact [jaganjgun008@gmail.com].
